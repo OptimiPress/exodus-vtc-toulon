@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>EXODUS VTC Toulon - Chauffeur VTC basé à Toulon</title>
+<meta name="dc.title" content="EXODUS VTC Toulon - Chauffeur VTC basé à Toulon">
+<meta name="description" content="">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+    <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap">
+    <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700,800,900&amp;display=swap">
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="shortcut icon" href="img/logo-noir-exodus-vtc-toulon.jpg" alt="EXODUS VTC Toulon - Chauffeur VTC basé à Toulon" />
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+
+<script type='application/ld+json'> 
+{
+"@context": "http://www.schema.org",
+"@type": "LocalBusiness","name": "EXODUS VTC Toulon",
+ 
+"logo": "img/logo-noir-exodus-vtc-toulon.jpg",
+"image": "img/logo-noir-exodus-vtc-toulon.jpg",
+"url": "https://exodus-vtc-toulon.netlify.app/",
+"description":"Besoin dun chauffeur fiable à Toulon ? Montez à bord et laissez-moi vous conduire en toute sérénité. Chauffeur privé expérimenté, je vous propose un service VTC ponctuel, confortable, sécurisé et écoresponsable. À lopposé des taxis traditionnels, je vous offre une expérience premium avec des tarifs clairs, un véhicule luxueux et un accueil 5 étoiles : rafraîchissements, Wi-Fi, chargeurs, discrétion et confort absolu. Spécialiste des trajets à Toulon, vers la gare ou laéroport Toulon-Hyères, joptimise chaque itinéraire pour vous faire gagner du temps. Que ce soit pour un rendez-vous daffaires ou un trajet personnel, je vous garantis un service haut de gamme.",
+"telephone":"0660760296",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "43.13624439860461",
+"longitude": "5.908222181689952"
+},
+"address": {
+"@type": "PostalAddress", 
+"addressLocality": "Toulon", 
+"addressRegion": "France" , 
+"postalCode": "83200" 
+},  
+"hasMap": "https://maps.app.goo.gl/tkDpn4QbKpwtz5SVA"
+}
+</script>
+<script type="application/ld+json">
+{
+"@type": "WebPage",
+"@context": "http://www.schema.org","lastReviewed": "2021-12-01",
+"mainContentOfPage": {
+"about": {"url": "https://exodus-vtc-toulon.netlify.app/index.html","name": "","description": "",
+"disambiguatingDescription": ""},
+"accessibilitySummary": ""},
+"keywords": [""],
+"award": ["Best "],
+"teaches": [""],
+"educationalUse": [""],
+"text": [""],
+"workExample": {
+"about": {"url": "https://exodus-vtc-toulon.netlify.app/index.html"
+}
+},
+"citation": {
+"@type": "CreativeWork",
+"about": {
+"url": "https://exodus-vtc-toulon.netlify.app/index.html"}
+}
+}
+</script> <style>
+   footer ul,footer ol{
+        list-style: none;
+    }
+        .navbar-custom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 1rem;
+        }
+        .navbar-left {
+            justify-content: flex-start;
+        }
+        .navbar-left .links {
+            margin-left: auto;
+        }
+        .navbar-center {
+            justify-content: center;
+            text-align: center;
+        }
+        .navbar-center .links {
+            display: inline-block;
+            margin: 0 auto;
+        }
+        .parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+.overlay-content {
+    position: relative;
+    z-index: 0;
+}
+.container-fluid{
+padding-left: 0px;
+padding-right: 0px;
+}
+p{
+    margin-top: revert;
+
+}
+ #section0 .colinner0 .col-inner0 h1 , #section0 .colinner0 .col-inner0 h1 a{
+    font-size: 50px;
+    color:#ffffff;
+    line-height:  65px;
+    font-family:Montserrat;
+        font-weight: bold;
+   
+} 
+#section0 .colinner0 .col-inner0 h2 , #section0 .colinner0 .col-inner0 h2 a{
+
+    font-size: 50px;
+    color:#ffffff;
+    line-height:  62px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner0  h3, #section0  .colinner0 .col-inner0  h3 a{
+    font-size: 40px;
+    color:#ffffff;
+    line-height:  52px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner0  h4, #section0  .colinner0 .col-inner0  h4 a{
+    font-size: 30px;
+    color:;
+    line-height:  42px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}   
+#section0  .colinner0 .col-inner0 h5 , #section0  .colinner0 .col-inner0  h5 a{
+    font-size: 20px;
+    color:#ffffff;
+    line-height:  px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner0  h6 , #section0  .colinner0 .col-inner0  h6 a{
+    font-size: 18px;
+    color:#ffffff;
+    line-height:  22px;
+     font-family:Montserrat;
+     
+    font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner0  p{
+    font-size: 14px;
+    color:#ffffff;
+    line-height:  22px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}      
+.button-0-1:hover{
+    color:#111111!important;
+    background:#f8daa8!important;
+    border-color:#fd834c!important;
+}
+ #section0 .colinner0 .col-inner1 h1 , #section0 .colinner0 .col-inner1 h1 a{
+    font-size: 60px;
+    color:#ffffff;
+    line-height:  72px;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section0 .colinner0 .col-inner1 h2 , #section0 .colinner0 .col-inner1 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+    line-height:  62px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner1  h3, #section0  .colinner0 .col-inner1  h3 a{
+    font-size: 40px;
+    color:#000000;
+    line-height:  52px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner1  h4, #section0  .colinner0 .col-inner1  h4 a{
+    font-size: 30px;
+    color:;
+    line-height:  42px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section0  .colinner0 .col-inner1 h5 , #section0  .colinner0 .col-inner1  h5 a{
+    font-size: 20px;
+    color:#000000;
+    line-height:  px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner1  h6 , #section0  .colinner0 .col-inner1  h6 a{
+    font-size: 18px;
+    color:#000000;
+    line-height:  22px;
+     font-family:Poppins;
+     
+    font-style: normal;
+   
+}    
+#section0  .colinner0 .col-inner1  p{
+    font-size: 18px;
+    color:#ffffff;
+    line-height:  22px;
+     font-family:Poppins;
+        font-weight: bold;
+   
+}      
+  
+     #section1 .colinner0 .col-inner0 h1 , #section1 .colinner0 .col-inner0 h1 a{
+    font-size: 60px;
+    color:#000000;
+    line-height:  40px;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section1 .colinner0 .col-inner0 h2 , #section1 .colinner0 .col-inner0 h2 a{
+
+    font-size: 35px;
+    color:#a851ff;
+    line-height:  40px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1  .colinner0 .col-inner0  h3, #section1  .colinner0 .col-inner0  h3 a{
+    font-size: 22px;
+    color:#000000;
+    line-height:  27px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1  .colinner0 .col-inner0  h4, #section1  .colinner0 .col-inner0  h4 a{
+    font-size: 30px;
+    color:;
+    line-height:  42px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section1  .colinner0 .col-inner0 h5 , #section1  .colinner0 .col-inner0  h5 a{
+    font-size: 20px;
+    color:#000000;
+    line-height:  px;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1  .colinner0 .col-inner0  h6 , #section1  .colinner0 .col-inner0  h6 a{
+    font-size: 18px;
+    color:#000000;
+    line-height:  22px;
+     font-family:Poppins;
+     
+    font-style: normal;
+   
+}    
+#section1  .colinner0 .col-inner0  p{
+    font-size: 17px;
+    color:#000000;
+    line-height:  27px;
+     font-family:Lato;
+        font-style: normal;
+   
+}      
+  
+     #section2 .colinner0 .col-inner0 h1 , #section2 .colinner0 .col-inner0 h1 a{
+    font-size: 60px;
+    color:#000000;
+    line-height:  72px;
+    font-family:Montserrat;
+        font-style: normal;
+   
+} 
+#section2 .colinner0 .col-inner0 h2 , #section2 .colinner0 .col-inner0 h2 a{
+
+    font-size: 35px;
+    color:#333333;
+    line-height:  62px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section2  .colinner0 .col-inner0  h3, #section2  .colinner0 .col-inner0  h3 a{
+    font-size: 25px;
+    color:#000000;
+    line-height:  52px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section2  .colinner0 .col-inner0  h4, #section2  .colinner0 .col-inner0  h4 a{
+    font-size: 30px;
+    color:;
+    line-height:  42px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}   
+#section2  .colinner0 .col-inner0 h5 , #section2  .colinner0 .col-inner0  h5 a{
+    font-size: 20px;
+    color:#000000;
+    line-height:  px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section2  .colinner0 .col-inner0  h6 , #section2  .colinner0 .col-inner0  h6 a{
+    font-size: 18px;
+    color:#000000;
+    line-height:  22px;
+     font-family:Montserrat;
+     
+    font-style: normal;
+   
+}    
+#section2  .colinner0 .col-inner0  p{
+    font-size: 15px;
+    color:#333333;
+    line-height:  25px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}      
+  
+     #section3 .colinner0 .col-inner0 h1 , #section3 .colinner0 .col-inner0 h1 a{
+    font-size: 60px;
+    color:#000000;
+    line-height:  72px;
+    font-family:Montserrat;
+        font-style: normal;
+   
+} 
+#section3 .colinner0 .col-inner0 h2 , #section3 .colinner0 .col-inner0 h2 a{
+
+    font-size: 35px;
+    color:#333333;
+    line-height:  62px;
+     font-family:Montserrat;
+        font-weight: bold;
+   
+}    
+#section3  .colinner0 .col-inner0  h3, #section3  .colinner0 .col-inner0  h3 a{
+    font-size: 25px;
+    color:#000000;
+    line-height:  52px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section3  .colinner0 .col-inner0  h4, #section3  .colinner0 .col-inner0  h4 a{
+    font-size: 30px;
+    color:;
+    line-height:  42px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}   
+#section3  .colinner0 .col-inner0 h5 , #section3  .colinner0 .col-inner0  h5 a{
+    font-size: 20px;
+    color:#000000;
+    line-height:  px;
+     font-family:Montserrat;
+        font-style: normal;
+   
+}    
+#section3  .colinner0 .col-inner0  h6 , #section3  .colinner0 .col-inner0  h6 a{
+    font-size: 18px;
+    color:#000000;
+    line-height:  22px;
+     font-family:Montserrat;
+     
+    font-style: normal;
+   
+}    
+#section3  .colinner0 .col-inner0  p{
+    font-size: 16px;
+    color:#000000;
+    line-height:  22px;
+     font-family:Lato;
+        font-style: normal;
+   
+}      
+  
+    </style>
+</head>
+<body>
+    <style>
+
+    .navbar-custom a:hover{
+            color:#fd6c2f!important;
+            background-color:#ffffff;
+    }
+    @media only screen and (max-width:1000px){
+        #navbarNav .links{
+        flex-direction: column;
+        margin-left:0px!important;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+    }
+    }
+    
+    </style>
+    <nav class="navbar-custom navbar navbar-expand-lg" style="
+        background-color: #ffffff; 
+        color: #060606; 
+        height: 150px; 
+        font-size: 17px; 
+        font-family: Lato; 
+        box-shadow: 0px 4px 5px -2px gray;
+        padding-left:20px;
+        padding-right:0px;
+    ">
+        <div class="container" style="display: flex; justify-content: space-between; height: 100%;">
+            <div style="height:px; width:px;"><a href="https://www.exodus-vtc-toulon.fr/"><img src="img/logo-noir-exodus-vtc-toulon.jpg" alt="Logo" style="height:100px;width:100px;padding-left:px;padding-right:px;padding-top:px;padding-bottom:px;"></a></div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon fa fa-bars" style="color:#060606"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="links ml-4" style="display: flex; flex: 1; justify-content: flex-end; align-items: center;">
+                    <a href="https://www.exodus-vtc-toulon.fr/" style="color: #060606; margin-right: 40px;">Accueil</a><a href="https://www.exodus-vtc-toulon.fr/reservation/" style="color: #060606; margin-right: 40px;">Réservation</a><a href="https://www.exodus-vtc-toulon.fr/a-propos/" style="color: #060606; margin-right: 40px;">À propos</a><a href="https://www.exodus-vtc-toulon.fr/contact/" style="color: #060606; margin-right: 40px;">Contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+<section class="container-fluid   overlay-content " id="section0" style="background-image:url(img/exodus-vtc-toulon-vtc-toulon-var.jpg);padding-top:250px;padding-bottom:250px;padding-left:40px;padding-right:0px;margin-top:0px;margin-bottom:0px;font-family:Montserrat;background-size:cover;"><div class="overlay" style="background: linear-gradient(#000000, #2d2d2d);opacity:0.5;"></div><div class="container"><div class="row "><div class="col-lg colinner0"><div class="   " style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;background-size:cover;"><div class="col-inner0"  style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;text-align:center;"><h2>EXODUS VTC Toulon - Chauffeur VTC à Toulon et dans le Var</h2>
+</div><div class="col-inner1"  style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:70px;margin-bottom:px;text-align:center;"><a href="tel:+33660760296" style="padding-top:16px;padding-bottom:16px;padding-left:40px;padding-right:40px;background:#fd834c;color:#ffffff;border-radius:100px;border:1px solid #fd843c;font-size:20px;text-decoration:none;transition:all 0.5s ease;font-weight:bold" class="button-0-1">06 60 76 02 96</a></div></div></div></div></div></div></section><section class="container-fluid    " id="section1" style="background-color:transparent;padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;margin-top:50px;margin-bottom:50px;font-family:Montserrat;background-size:cover;"><div class="container"><div class="row "><div class="col-lg colinner0"><div class="   " style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;background-size:cover;"><div class="col-inner0"  style="padding-top:15px;padding-bottom:15px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;text-align:left;"><h2 data-end="219" data-start="143">EXODUS VTC Toulon : un service de transport privé fiable et haut de gamme</h2>
+
+<p data-end="681" data-start="221">À Toulon et dans tout le département du Var, <strong data-end="287" data-start="266">EXODUS VTC Toulon</strong> se distingue comme un service de chauffeur privé associant confort, ponctualité et professionnalisme. Fondée par <strong data-end="419" data-start="401">Jérémy Seguela</strong>, chauffeur expérimenté et installé à Toulon, l’entreprise offre une alternative moderne et transparente aux taxis traditionnels. Disponible 24 heures sur 24 et 7 jours sur 7, elle s’adresse aux particuliers, aux professionnels ainsi qu’aux voyageurs de passage.</p>
+
+<h3 data-end="725" data-start="683"><br />
+Des trajets adaptés à tous les besoins</h3>
+
+<p data-end="1103" data-start="727">L’activité couvre un large éventail de prestations. Les transferts vers la <strong data-end="825" data-start="802">gare SNCF de Toulon</strong>, le <strong data-end="847" data-start="830">port maritime</strong> et l’<strong data-end="879" data-start="853">aéroport Toulon-Hyères</strong> constituent des services phares, avec la garantie d’un tarif annoncé à l’avance et sans surprise. EXODUS VTC Toulon répond aussi aux besoins des entreprises pour des <strong data-end="1077" data-start="1046">déplacements professionnels</strong> efficaces et ponctuels.</p>
+
+<p data-end="1486" data-start="1105">L’entreprise propose également des <strong data-end="1179" data-start="1140">circuits touristiques personnalisés</strong> afin de découvrir la Côte d’Azur, le littoral méditerranéen ou les villages provençaux. Enfin, les <strong data-end="1300" data-start="1279">événements privés</strong> comme les mariages, anniversaires ou soirées bénéficient d’un service sur mesure grâce à la mise à disposition du véhicule et du chauffeur pour plusieurs heures ou une journée complète.</p>
+
+<h3 data-end="1529" data-start="1488"><br />
+Un véhicule premium et écoresponsable</h3>
+
+<p data-end="2034" data-start="1531">La flotte est composée d’une <strong data-end="1604" data-start="1560">berline haut de gamme hybride/électrique</strong>, à la fois spacieuse, élégante et respectueuse de l’environnement. Chaque trajet se déroule dans un cadre confortable, avec à bord : <strong data-end="1757" data-start="1738">connexion Wi-Fi</strong>, <strong data-end="1780" data-start="1759">rafraîchissements</strong>, <strong data-end="1797" data-start="1782">confiseries</strong>, <strong data-end="1826" data-start="1799">chargeurs multi-marques</strong>, <strong data-end="1848" data-start="1828">bouteilles d’eau</strong> et <strong data-end="1880" data-start="1852">siège enfant sur demande</strong>. La sécurité reste une priorité avec un entretien régulier, un nettoyage rigoureux et des équipements modernes (freinage d’urgence, régulateur, airbags).</p>
+
+<h3 data-end="2072" data-start="2036"><br />
+Des tarifs clairs et compétitifs</h3>
+
+<p data-end="2448" data-start="2074">EXODUS VTC Toulon mise sur la transparence tarifaire. À titre indicatif, un trajet entre <strong data-end="2208" data-start="2163">Toulon centre et l’aéroport Toulon-Hyères</strong> est proposé à 70 €, tandis qu’une course vers <strong data-end="2272" data-start="2255">Les Sablettes</strong> coûte 40 €, et un déplacement vers le <strong data-end="2342" data-start="2311">centre commercial Grand Var</strong> est facturé 30 €. Ces prix maîtrisés permettent aux clients d’anticiper leurs dépenses sans frais cachés.</p>
+
+<h3 data-end="2480" data-start="2450"><br />
+Une réputation déjà solide</h3>
+
+<p data-end="2824" data-start="2482">Grâce à la qualité de ses prestations, l’entreprise bénéficie d’une <strong data-end="2576" data-start="2550">note de 5/5 sur Google</strong>, les clients soulignant la <strong data-end="2619" data-start="2604">ponctualité</strong>, la <strong data-end="2638" data-start="2624">courtoisie</strong> et le <strong data-end="2668" data-start="2645">confort du véhicule</strong>. Avec son expertise locale et son sens du service, Jérémy Seguela assure à chaque passager une expérience de transport fluide, agréable et personnalisée.</p>
+</div></div></div></div></div></section><section class="container-fluid    " id="section2" style="background-color:#e7e7d2;padding-top:50px;padding-bottom:30px;padding-left:20px;padding-right:20px;margin-top:0px;margin-bottom:0px;font-family:Montserrat;background-size:cover;"><div class="container"><div class="row "><div class="col-lg colinner0"><div class="   " style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;background-size:cover;"><div class="col-inner0"  style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;text-align:center;"><h2 id="headline-616-14">Citations :</h2>
+
+<p><a href="https://sites.google.com/view/vtctoulon/accueil">https://sites.google.com/view/vtctoulon/accueil</a><br />
+<a href="https://www.google.com/search?kgmid=/g/11x9885l3y">https://www.google.com/search?kgmid=/g/11x9885l3y</a><br />
+<a href="https://www.google.com/maps/place/?q=place_id:ChIJHbOO3muiNacRZCHEtpaazXM">https://www.google.com/maps/place/?q=place_id:ChIJHbOO3muiNacRZCHEtpaazXM</a><br />
+<a href="https://www.google.com/maps/place/?cid=8344495656689475940">https://www.google.com/maps/place/?cid=8344495656689475940</a><br />
+<a href="https://www.instagram.com/exodusvtctoulon/">https://www.instagram.com/exodusvtctoulon/</a><br />
+<a href="https://www.facebook.com/exodusvtctoulon">https://www.facebook.com/exodusvtctoulon</a><br />
+<a href="https://www.tripadvisor.fr/Attraction_Review-g187257-d33131667-Reviews-Exodus_Vtc_Toulon-Toulon_Var_Provence_Alpes_Cote_d_Azur.html">Tripadvisor</a><br />
+<a href="https://www.pagesjaunes.fr/pros/63925157">https://www.pagesjaunes.fr/pros/63925157</a><br />
+<a href="https://fr.mappy.com/poi/680c5011c9b477546dedb2c0">https://fr.mappy.com/poi/680c5011c9b477546dedb2c0</a><br />
+<a href="https://www.optimipress.com/realisations/exodus-vtc-toulon/">https://www.optimipress.com/realisations/exodus-vtc-toulon/</a><br />
+ </p>
+</div></div></div></div></div></section><section class="container-fluid    " id="section3" style="background-color:transparent;padding-top:50px;padding-bottom:30px;padding-left:0px;padding-right:0px;margin-top:0px;margin-bottom:0px;font-family:Poppins;background-size:cover;"><div class="container"><div class="row "><div class="col-lg colinner0"><div class="   " style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;background-size:cover;"><div class="col-inner0"  style="padding-top:px;padding-bottom:px;padding-left:px;padding-right:px;margin-top:px;margin-bottom:px;text-align:center;"><h2 id="headline-347-24">EXODUS VTC Toulon sur Google Maps</h2>
+
+<p><iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d93175.35037012973!2d5.835376420428545!3d43.13120416799954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa735a26bde8eb31d%3A0x73cd9a96b6c42164!2sEXODUS%20VTC%20Toulon!5e0!3m2!1sfr!2sfr!4v1757080226211!5m2!1sfr!2sfr" style="border:0;" width="600">vtc toulon</iframe></p>
+
+<p><a href="https://www.google.com/search?kgmid=/g/11x9885l3y">https://www.google.com/search?kgmid=/g/11x9885l3y</a><br />
+<a href="https://www.google.com/maps/place/?q=place_id:ChIJHbOO3muiNacRZCHEtpaazXM">https://www.google.com/maps/place/?q=place_id:ChIJHbOO3muiNacRZCHEtpaazXM</a><br />
+<a href="https://www.google.com/maps/place/?cid=8344495656689475940">https://www.google.com/maps/place/?cid=8344495656689475940</a></p>
+</div></div></div></div></div></section> 
+
